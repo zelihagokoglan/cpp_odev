@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1732560190 source:c:\users\90532\onedrive\masaüstü\c derslerİ\cpp_odev\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	"student.h"
+
+1732560029 c:\users\90532\onedrive\masaüstü\c derslerİ\cpp_odev\include\student.h
+	<string>
+	<fstream>
+
+1732560226 source:c:\users\90532\onedrive\masaüstü\c derslerİ\cpp_odev\src\student.cpp
+	"student.h"
+	<sstream>
+	<iomanip>
+
